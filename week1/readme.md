@@ -1,4 +1,3 @@
-# TIL 
 ## ✍ 1 Week Qustion !! <br>
 > 백준 문제 제목
 > - 윤년
